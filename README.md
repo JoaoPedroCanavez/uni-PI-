@@ -17,41 +17,6 @@ Este repositório contém o projeto de prototipação de um sistema de Gerenciam
 
 ---
 
-### 🚀 Como Rodar o Projeto (Instruções Provisórias)
-
-**Pré-requisitos:**
-
-* [Adicionar aqui pré-requisitos, ex: Linguagem de programação (Java, Python, C#), Framework (Spring Boot, .NET, Django, Flask), Banco de Dados (MySQL, PostgreSQL, SQL Server), Ferramenta de Build (Maven, Gradle)]
-
-**Passos:**
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/SeuUsuario/uni-PI-.git](https://github.com/SeuUsuario/uni-PI-.git)
-    cd uni-PI-
-    ```
-2.  **Configuração do Banco de Dados:**
-    * Crie o banco de dados conforme o script SQL fornecido (ou a ser fornecido) na documentação.
-    * Atualize as configurações de conexão com o banco de dados no arquivo de configuração do projeto (ex: `application.properties`, `settings.py`, `appsettings.json`).
-3.  **Build do Projeto:**
-    * [Instruções específicas para compilar/montar o projeto, ex:]
-        ```bash
-        # Para projetos Maven/Gradle
-        mvn clean install 
-        # ou
-        gradle build
-        ```
-4.  **Executar a Aplicação:**
-    * [Instruções específicas para iniciar a aplicação, ex:]
-        ```bash
-        # Para um JAR executável
-        java -jar target/seu-app.jar
-        # Para um projeto Python
-        python manage.py runserver
-        ```
-
----
-
 ### 🤝 Contribuição
 
 Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou encontrar algum bug, por favor:
