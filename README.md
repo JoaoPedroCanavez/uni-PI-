@@ -2,9 +2,9 @@
 
 ## 🎓 Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos
 
-Este repositório contém o projeto de prototipação de um sistema de Gerenciamento (CRUD) para um sistema de gestão de dados de uma universidade, desenvolvido como parte do Projeto Integrador (PI) semestral para o curso de Tecnologia em Análise e Desenvolvimento de Sistemas[cite: 3, 4, 8].
+[cite_start]Este repositório contém o projeto de prototipação de um sistema de Gerenciamento (CRUD) para um sistema de gestão de dados de uma universidade, desenvolvido como parte do Projeto Integrador (PI) semestral para o curso de Tecnologia em Análise e Desenvolvimento de Sistemas[cite: 3, 4, 8].
 
-O sistema visa aplicar a modelagem de sistemas orientados a objetos (utilizando UML) para simular as operações básicas de gestão de dados (Pessoa Física, Pessoa Jurídica, Alunos, Professores e Fornecedores) em um ambiente universitário[cite: 8, 9, 129].
+[cite_start]O sistema visa aplicar a modelagem de sistemas orientados a objetos (utilizando UML) para simular as operações básicas de gestão de dados (Pessoa Física, Pessoa Jurídica, Alunos, Professores e Fornecedores) em um ambiente universitário[cite: 8, 9, 129].
 
 ---
 
@@ -12,12 +12,12 @@ O sistema visa aplicar a modelagem de sistemas orientados a objetos (utilizando 
 
 O sistema é centrado em torno dos casos de uso de cadastro e validação:
 
-**Gestão de Pessoas Físicas e Jurídicas:** Estrutura base para lidar com diferentes tipos de entidades[cite: 9, 18, 19].
-**Gestão de Alunos:** Cadastro, consulta e gerenciamento de estudantes[cite: 16, 29, 73].
-**Gestão de Professores:** Cadastro e gerenciamento de dados de docentes[cite: 21, 55].
-**Gestão de Funcionários:** Gerenciamento dos dados dos funcionários administrativos[cite: 22].
-**Gestão de Fornecedores:** Cadastro e controle de informações sobre fornecedores[cite: 25, 36, 64].
-**Validação de Dados:** Validação de documentos (CPF e CNPJ) durante o cadastro[cite: 27, 32, 33].
+* [cite_start]**Gestão de Pessoas Físicas e Jurídicas:** Estrutura base para lidar com diferentes tipos de entidades[cite: 9, 18, 19].
+* [cite_start]**Gestão de Alunos:** Cadastro, consulta e gerenciamento de estudantes[cite: 16, 29, 73].
+* [cite_start]**Gestão de Professores:** Cadastro e gerenciamento de dados de docentes[cite: 21, 55].
+* [cite_start]**Gestão de Funcionários:** Gerenciamento dos dados dos funcionários administrativos[cite: 22].
+* [cite_start]**Gestão de Fornecedores:** Cadastro e controle de informações sobre fornecedores[cite: 25, 36, 64].
+* [cite_start]**Validação de Dados:** Validação de documentos (CPF e CNPJ) durante o cadastro[cite: 27, 32, 33].
 
 ---
 
@@ -29,20 +29,24 @@ A prototipação das telas segue o fluxo de cenários descrito nos diagramas de 
 
 O usuário (Aluno, Funcionário ou Fornecedor) inicia o acesso ao sistema através da tela de Login.
 
-* **Fluxo Principal:** O usuário insere seu login e senha. Se os dados estiverem corretos, ele é direcionado ao Menu Principal[cite: 40, 50, 59, 68, 77].
+* **Fluxo Principal:** O usuário insere seu login e senha. [cite_start]Se os dados estiverem corretos, ele é direcionado ao Menu Principal[cite: 40, 50, 59, 68, 77].
 * **Fluxo Alternativo:** Se os dados estiverem incorretos, o sistema exibe a mensagem "DADOS DE ENTRADA INCORRETOS!" e solicita a correção, conforme o fluxo alternativo.
 
-[Login]
+`
 
-![Image of Login Screen](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/Login.png)
+[Image of Login Screen]
+`
+`(https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/Login.png)`
 
+``
+`(https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/LoginFalha.png)`
 
 #### 2. Menu Principal
 
 Após o login, o usuário tem acesso ao "Sistema Gestão Universidade", onde pode selecionar o tipo de cadastro que deseja realizar (Cadastro Pessoa Física, Professores, Alunos, etc.).
-[Home]
 
-![Image of home screen](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/Home.png)
+``
+`(https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/Home.png)`
 
 #### 3. Fluxo de Cadastro
 
@@ -51,21 +55,20 @@ Após o login, o usuário tem acesso ao "Sistema Gestão Universidade", onde pod
 3.  **Sucesso e Próxima Etapa:** O sistema exibe a tela de "DADOS INSERIDOS COM SUCESSO!".
 4.  **Pós-condição:** Conforme a pós-condição do projeto, o usuário é instruído a clicar em "COMPLETAR CADASTRO" para adicionar informações não obrigatórias ao seu perfil.
 
+``
+`(https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/TelaCadastro.png)`
 
-![image of signup screen](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/TelaCadastro.png)
-
-
-
-![image of signup complete screen](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/CompletarCadastro.png)
+``
+`(https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/CompletarCadastro.png)`
 
 ---
 
 ### 👥 Integrantes do Grupo
 
-* Deivid Souza Silva [cite: 2]
-* João Pedro Dos Santos Silvano [cite: 2]
-* Kauan Ferreira Santos [cite: 2]
-* Leonardo Dos Santos Freire [cite: 2]
+* [cite_start]Deivid Souza Silva [cite: 2]
+* [cite_start]João Pedro Dos Santos Silvano [cite: 2]
+* [cite_start]Kauan Ferreira Santos [cite: 2]
+* [cite_start]Leonardo Dos Santos Freire [cite: 2]
 
 ---
 
