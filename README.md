@@ -25,6 +25,8 @@ O sistema é centrado em torno dos casos de uso de cadastro e validação:
 
 A prototipação das telas segue o fluxo de cenários descrito nos diagramas de caso de uso do projeto.
 
+![prototipação](https://www.figma.com/site/XxSh2qalP1IBCig9sKRkta/Sem-t%C3%ADtulo?node-id=0-3&t=50EquhhOQTBN5ErA-0)
+
 #### 1. Login e Validação
 
 O usuário (Aluno, Funcionário ou Fornecedor) inicia o acesso ao sistema através da tela de Login.
@@ -40,7 +42,6 @@ O usuário (Aluno, Funcionário ou Fornecedor) inicia o acesso ao sistema atrav�
 #### 2. Menu Principal
 
 Após o login, o usuário tem acesso ao "Sistema Gestão Universidade", onde pode selecionar o tipo de cadastro que deseja realizar (Cadastro Pessoa Física, Professores, Alunos, etc.).
-[Home]
 
 ![Image of home screen](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/Home.png)
 
