@@ -32,17 +32,17 @@ O usuário (Aluno, Funcionário ou Fornecedor) inicia o acesso ao sistema atrav�
 * **Fluxo Principal:** O usuário insere seu login e senha. [cite_start]Se os dados estiverem corretos, ele é direcionado ao Menu Principal[cite: 40, 50, 59, 68, 77].
 * **Fluxo Alternativo:** Se os dados estiverem incorretos, o sistema exibe a mensagem "DADOS DE ENTRADA INCORRETOS!" e solicita a correção, conforme o fluxo alternativo.
 
-`
+[Login]
 
-![Image of Login Screen](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/Login.png)`
+![Image of Login Screen](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/Login.png)
 
 
 #### 2. Menu Principal
 
 Após o login, o usuário tem acesso ao "Sistema Gestão Universidade", onde pode selecionar o tipo de cadastro que deseja realizar (Cadastro Pessoa Física, Professores, Alunos, etc.).
+[Home]
 
-``
-`(tela {1E07E9E0-6433-4A62-B1EE-14665B83904D}.png)`
+![Image of home screen](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/1.home.png)
 
 #### 3. Fluxo de Cadastro
 
@@ -51,11 +51,12 @@ Após o login, o usuário tem acesso ao "Sistema Gestão Universidade", onde pod
 3.  **Sucesso e Próxima Etapa:** O sistema exibe a tela de "DADOS INSERIDOS COM SUCESSO!".
 4.  **Pós-condição:** Conforme a pós-condição do projeto, o usuário é instruído a clicar em "COMPLETAR CADASTRO" para adicionar informações não obrigatórias ao seu perfil.
 
-``
-`(tela {0D5DD13E-9CC1-43BC-B7D9-EFC210B3CDFE}.png)`
 
-``
-`(tela {D9B14EA8-3AC2-4EF6-9E7F-40450E83BDC1}.png)`
+![image of signup screen](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/TelaCadastro.png)
+
+
+
+![image of signup complete screen](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/CompletarCadastro.png)`
 
 ---
 
