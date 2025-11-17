@@ -25,7 +25,9 @@ O sistema é centrado em torno dos casos de uso de cadastro e validação:
 
 A prototipação das telas segue o fluxo de cenários descrito nos diagramas de caso de uso do projeto.
 
-![prototipação](https://www.figma.com/site/XxSh2qalP1IBCig9sKRkta/Sem-t%C3%ADtulo?node-id=0-3&t=50EquhhOQTBN5ErA-0)
+![Demonstração do Protótipo](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/Sys.gif)
+
+*(Clique [aqui](https://www.figma.com/site/XxSh2qalP1IBCig9sKRkta/Sem-t%C3%ADtulo?node-id=0-3&t=50EquhhOQTBN5ErA-0) para testar o protótipo interativo)*
 
 #### 1. Login e Validação
 
