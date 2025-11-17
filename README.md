@@ -29,7 +29,7 @@ A prototipação das telas segue o fluxo de cenários descrito nos diagramas de 
 
 O usuário (Aluno, Funcionário ou Fornecedor) inicia o acesso ao sistema através da tela de Login.
 
-* **Fluxo Principal:** O usuário insere seu login e senha. [cite_start]Se os dados estiverem corretos, ele é direcionado ao Menu Principal[cite: 40, 50, 59, 68, 77].
+* **Fluxo Principal:** O usuário insere seu login e senha. Se os dados estiverem corretos, ele é direcionado ao Menu Principal[cite: 40, 50, 59, 68, 77].
 * **Fluxo Alternativo:** Se os dados estiverem incorretos, o sistema exibe a mensagem "DADOS DE ENTRADA INCORRETOS!" e solicita a correção, conforme o fluxo alternativo.
 
 [Login]
@@ -62,10 +62,10 @@ Após o login, o usuário tem acesso ao "Sistema Gestão Universidade", onde pod
 
 ### 👥 Integrantes do Grupo
 
-* [cite_start]Deivid Souza Silva [cite: 2]
-* [cite_start]João Pedro Dos Santos Silvano [cite: 2]
-* [cite_start]Kauan Ferreira Santos [cite: 2]
-* [cite_start]Leonardo Dos Santos Freire [cite: 2]
+* Deivid Souza Silva [cite: 2]
+* João Pedro Dos Santos Silvano [cite: 2]
+* Kauan Ferreira Santos [cite: 2]
+* Leonardo Dos Santos Freire [cite: 2]
 
 ---
 
