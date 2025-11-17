@@ -56,7 +56,7 @@ Após o login, o usuário tem acesso ao "Sistema Gestão Universidade", onde pod
 
 
 
-![image of signup complete screen](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/CompletarCadastro.png)`
+![image of signup complete screen](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/CompletarCadastro.png)
 
 ---
 
