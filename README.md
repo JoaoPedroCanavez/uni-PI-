@@ -2,9 +2,9 @@
 
 ## 🎓 Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos
 
-[cite_start]Este repositório contém o projeto de prototipação de um sistema de Gerenciamento (CRUD) para um sistema de gestão de dados de uma universidade, desenvolvido como parte do Projeto Integrador (PI) semestral para o curso de Tecnologia em Análise e Desenvolvimento de Sistemas[cite: 3, 4, 8].
+Este repositório contém o projeto de prototipação de um sistema de Gerenciamento (CRUD) para um sistema de gestão de dados de uma universidade, desenvolvido como parte do Projeto Integrador (PI) semestral para o curso de Tecnologia em Análise e Desenvolvimento de Sistemas[cite: 3, 4, 8].
 
-[cite_start]O sistema visa aplicar a modelagem de sistemas orientados a objetos (utilizando UML) para simular as operações básicas de gestão de dados (Pessoa Física, Pessoa Jurídica, Alunos, Professores e Fornecedores) em um ambiente universitário[cite: 8, 9, 129].
+O sistema visa aplicar a modelagem de sistemas orientados a objetos (utilizando UML) para simular as operações básicas de gestão de dados (Pessoa Física, Pessoa Jurídica, Alunos, Professores e Fornecedores) em um ambiente universitário[cite: 8, 9, 129].
 
 ---
 
@@ -12,12 +12,12 @@
 
 O sistema é centrado em torno dos casos de uso de cadastro e validação:
 
-* [cite_start]**Gestão de Pessoas Físicas e Jurídicas:** Estrutura base para lidar com diferentes tipos de entidades[cite: 9, 18, 19].
-* [cite_start]**Gestão de Alunos:** Cadastro, consulta e gerenciamento de estudantes[cite: 16, 29, 73].
-* [cite_start]**Gestão de Professores:** Cadastro e gerenciamento de dados de docentes[cite: 21, 55].
-* [cite_start]**Gestão de Funcionários:** Gerenciamento dos dados dos funcionários administrativos[cite: 22].
-* [cite_start]**Gestão de Fornecedores:** Cadastro e controle de informações sobre fornecedores[cite: 25, 36, 64].
-* [cite_start]**Validação de Dados:** Validação de documentos (CPF e CNPJ) durante o cadastro[cite: 27, 32, 33].
+**Gestão de Pessoas Físicas e Jurídicas:** Estrutura base para lidar com diferentes tipos de entidades[cite: 9, 18, 19].
+**Gestão de Alunos:** Cadastro, consulta e gerenciamento de estudantes[cite: 16, 29, 73].
+**Gestão de Professores:** Cadastro e gerenciamento de dados de docentes[cite: 21, 55].
+**Gestão de Funcionários:** Gerenciamento dos dados dos funcionários administrativos[cite: 22].
+**Gestão de Fornecedores:** Cadastro e controle de informações sobre fornecedores[cite: 25, 36, 64].
+**Validação de Dados:** Validação de documentos (CPF e CNPJ) durante o cadastro[cite: 27, 32, 33].
 
 ---
 
