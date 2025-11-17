@@ -42,7 +42,7 @@ O usuário (Aluno, Funcionário ou Fornecedor) inicia o acesso ao sistema atrav�
 Após o login, o usuário tem acesso ao "Sistema Gestão Universidade", onde pode selecionar o tipo de cadastro que deseja realizar (Cadastro Pessoa Física, Professores, Alunos, etc.).
 [Home]
 
-![Image of home screen](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/1.home.png)
+![Image of home screen](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/Home.png)
 
 #### 3. Fluxo de Cadastro
 
