@@ -17,7 +17,7 @@ O sistema é centrado em torno dos casos de uso de cadastro e validação:
 **Gestão de Professores:** Cadastro e gerenciamento de dados de docentes.
 **Gestão de Funcionários:** Gerenciamento dos dados dos funcionários administrativos.
 **Gestão de Fornecedores:** Cadastro e controle de informações sobre fornecedores.
-**Validação de Dados:** Validação de documentos (CPF e CNPJ) durante o cadastro.
+**Validação de Dados:** Validação de documentgit aos (CPF e CNPJ) durante o cadastro.
 
 ---
 
@@ -35,6 +35,8 @@ O usuário (Aluno, Funcionário ou Fornecedor) inicia o acesso ao sistema atrav�
 [Login]
 
 ![Image of Login Screen](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/Login.png)
+
+![Image of Login Screen](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/LoginFalha.png)
 
 
 #### 2. Menu Principal
