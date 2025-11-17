@@ -32,8 +32,6 @@ O usuário (Aluno, Funcionário ou Fornecedor) inicia o acesso ao sistema atrav�
 * **Fluxo Principal:** O usuário insere seu login e senha. Se os dados estiverem corretos, ele é direcionado ao Menu Principal.
 * **Fluxo Alternativo:** Se os dados estiverem incorretos, o sistema exibe a mensagem "DADOS DE ENTRADA INCORRETOS!" e solicita a correção, conforme o fluxo alternativo.
 
-[Login]
-
 ![Image of Login Screen](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/Login.png)
 
 ![Image of Login Screen](https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/LoginFalha.png)
