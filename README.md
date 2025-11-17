@@ -36,10 +36,8 @@ O usuário (Aluno, Funcionário ou Fornecedor) inicia o acesso ao sistema atrav�
 
 [Image of Login Screen]
 `
-`(1.home.png)`
+`(https://github.com/JoaoPedroCanavez/uni-PI-/blob/main/Model/Login.png)`
 
-``
-`(tela {718C1B66-6D01-48B2-919C-218A15CFAABC}.png)`
 
 #### 2. Menu Principal
 
